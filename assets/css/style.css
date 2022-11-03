@@ -186,6 +186,7 @@ body {
     .menu-nav ul {
         gap: 15px;
         flex-wrap: wrap;
+        margin-top: 30px;
     }
     .social-icons {
         margin-top: 60px;
